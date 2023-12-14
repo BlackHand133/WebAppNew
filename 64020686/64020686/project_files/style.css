@@ -1,0 +1,15 @@
+h2{
+  color:rgb(107, 12, 231);
+  text-align: center;
+  border: groove green;
+  background: black;
+  cursor: pointer;
+}
+body{
+  background-image: url("goku.png");
+  background-size:900px auto;
+}
+li {
+ list-style-type: "💀";
+}
+
